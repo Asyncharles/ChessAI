@@ -1,0 +1,7 @@
+name: ChessAI
+version: 0.0.1
+author: Aksyo
+main: net.aksyo.spigot.Main
+api-version: 1.13
+commands:
+  board:
